@@ -1,0 +1,1 @@
+web: gunicorn mapage.wsgi --log-file -
